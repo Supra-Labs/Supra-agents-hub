@@ -24,10 +24,10 @@ git clone https://github.com/Supra-Labs/Supra-agents-hub.git
 ```
 **// Navigate into root dir.**
 
-2️⃣ **Run any agents** using the instructions in its README Provide in each agent codebase given in `./Agents` sub-repo.  
+2️⃣ **Run any agents** using the instructions in the README Provided in each agent codebase given present at `./Agents` sub-repo.  
 
 ## Agents Sub-Repo Index  
-This sub-repo contains several AI agent implementations for interacting with **Supra L1**. Each **sub-repo** focuses on a unique AI-driven use case:
+This sub-repo contains several AI agent implementations for interacting with **Supra L1**. Each **Agents** focuses on a unique AI-driven use case:
 
 | **Repo Name**        | **Description** |
 |----------------------|---------------------------------------------------------------|
