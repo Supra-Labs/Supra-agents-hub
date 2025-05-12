@@ -1,4 +1,4 @@
-# Trading agent
+# Trading Assist Agent
 This Agent fetches real-time and historical market data via Supra’s REST APIs, computes technical indicators, uses a Prophet-based machine learning model for short-term predictions, and lets you ask follow-up questions via OpenAI’s API—all directly from your terminal.
 
 ## What the AI Agent Does?
@@ -26,7 +26,7 @@ git clone https://github.com/Supra-Labs/Supra-agents-hub.git
 
 ```bash
 cd Agents
-cd "Trading Agent"
+cd "Trading Assist Agent"
 ```
 
 ### Install Dependencies

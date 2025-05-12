@@ -33,7 +33,7 @@ This sub-repo contains several AI agent implementations for interacting with **S
 |----------------------|---------------------------------------------------------------|
 | **Account Interaction Agent**         | Perform real-time on-chain tasks like Tracking transactions and Requesting testnet tokens etc..(balances, transactions, faucet). |
 | **Price Feed Agent**         | Interacts with Supra's real-time price feeds and historical OHLC data APIs to get to reliable market insights.   |
-| **Trading agent**         | Fetches Market Data via Supra’s oracles, Computes Technical Indicators, uses a ML Model for Short-Term Predictions, and lets you ask follow-up questions to understand Market. |
+| **Trading Assist Agent**         | Fetches Market Data via Supra’s oracles, Computes Technical Indicators, uses a ML Model for Short-Term Predictions, and lets you ask follow-up questions to understand Market. |
 
 
 ## 🔗 Quick Links  
