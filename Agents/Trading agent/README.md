@@ -69,15 +69,15 @@ Forecast Price     : $6.02
 
 ## How Your AI Agent Interacts With Supra?
 
-> **Data Retrieval:** It uses Supra’s REST API endpoints to fetch real-time prices and historical OHLC data.
+**Data Retrieval:** It uses Supra’s REST API endpoints to fetch real-time prices and historical OHLC data.
 
-> **Calculation of Indicators:** Functions compute common technical indicators (RSI, SMA, Bollinger Bands, MACD) from the historical data.
+**Calculation of Indicators:** Functions compute common technical indicators (RSI, SMA, Bollinger Bands, MACD) from the historical data.
 
-> **Price Forecasting:** A Prophet-based model forecasts a short-term price delta to help predict near-future price movements.
+**Price Forecasting:** A Prophet-based model forecasts a short-term price delta to help predict near-future price movements.
 
-> **Trade Signal Logic:** Decision rules based on indicator thresholds and predicted deltas generate a BUY/SELL/HOLD signal.
+**Trade Signal Logic:** Decision rules based on indicator thresholds and predicted deltas generate a BUY/SELL/HOLD signal.
 
-> **Interactivity with OpenAI:** The assistant integrates with OpenAI’s ChatCompletion to answer contextual follow-up questions based on the current market analysis.
+**Interactivity with OpenAI:** The assistant integrates with OpenAI’s ChatCompletion to answer contextual follow-up questions based on the current market analysis.
 	
 
 🔥 Ready to leverage AI-driven market analysis for crypto trading on Supra? Fork this repository, set up your API keys, and start exploring dynamic trade insights today!
