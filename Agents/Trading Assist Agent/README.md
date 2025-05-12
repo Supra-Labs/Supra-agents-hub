@@ -53,16 +53,18 @@ python agent.py
 - The agent outputs a detailed summary, for example:
 
 ```
----------- Market Data & Signals for APT_USDT ----------
-Latest Price       : $6.01
-SMA (last 20)      : $5.94
-RSI (14-period)    : 55.86
-Bollinger Bands    : Upper = $6.07, Lower = $5.81
-MACD               : 0.0235
-MACD Signal        : 0.0101
-AI Prediction      : Change of +0.0096
-Forecast Price     : $6.02
+---------- Market Data & Signals for SUPRA_USDT ----------
+Latest Price       : $0.01
+SMA (last 20)      : $0.01
+RSI (14-period)    : 62.77
+Bollinger Bands    : Upper = $0.01, Lower = $0.01
+MACD               : 0.0001
+MACD Signal        : 0.0001
+AI Prediction      : Change of -0.0000
+Forecast Price     : $0.01
 ------------------> Trade Signal: HOLD
+
+Type your question for the trading assistant or press Enter to exit: 
 ```
 
 - After the analysis, you'll be prompted to enter a follow-up question (for example, "Is it a good time to hold?"). The agent will then send the market data and your query to OpenAI and display the assistant's response.
