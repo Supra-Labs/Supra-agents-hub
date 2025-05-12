@@ -1,9 +1,11 @@
-# Supra AI Agents Guide
+# Supra Agents Hub
 
 ## What is Supra?  
-Supra is a **high-performance MultiVM Layer 1**, starting with MoveVM, designed to enable **AI-driven smart contracts** with **instant execution** and **cross-chain operability**. It achieved **500K TPS on 300 nodes** with **sub-second consensus latency**, making it the **best environment for AI Agents** in DeFi and beyond.
+
+Supra is a **high-performance Layer 1**, starting with MoveVM, designed to enable Smart contracts with **instant execution** and **MultiVM operability**. It achieved **500K TPS on 300 nodes** with **sub-second consensus latency**, making it the **best environment for AI Agents** in DeFi and beyond.
 
 ## Why Choose Supra for AI Agents?  
+
 Supra is built for **autonomous execution** and **real-time data processing**, enabling AI agents to make **instant decisions** and **execute smart contracts** natively. Key benefits include:
 
 - **Ultra-fast Transactions** → 500K+ TPS ensures AI Agents execute **before competitors**  
@@ -13,7 +15,7 @@ Supra is built for **autonomous execution** and **real-time data processing**, e
 - **AI-ready On-Chain Strategies** → Supports **AutoFi** (Automatic DeFi) for **AI-managed portfolios**  
 - **Seamless "Sense-Think-Act" Execution** → AI Agents detect, strategize, and deploy trades autonomously  
 
-## 📌 How to Get Started  
+## How to Get Started  
 
 1️⃣ **Fork this repo**
 
@@ -24,7 +26,7 @@ git clone https://github.com/Supra-Labs/Supra-agents-hub.git
 
 2️⃣ **Run any agents** using the instructions in its README Provide in each agent codebase given in `./Agents` sub-repo.  
 
-## 📁 Agents Sub-Repo Index  
+## Agents Sub-Repo Index  
 This sub-repo contains several AI agent implementations for interacting with **Supra L1**. Each **sub-repo** focuses on a unique AI-driven use case:
 
 | **Repo Name**        | **Description** |
