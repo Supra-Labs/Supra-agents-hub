@@ -65,7 +65,7 @@ function parseCommand(input: string): { command: string; hash?: string } {
 }
 
 async function main() {
-  console.log(chalk.cyan.bold("\n*** Welcome to SuprA-AI ***\n"));
+  console.log(chalk.cyan.bold("\n*** Welcome to SupraOnChainAgent ***\n"));
 
   // Initialize Supra Client on testnet.
   console.log(chalk.blue("Initializing Supra Client..."));
@@ -81,7 +81,7 @@ async function main() {
   const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
-    prompt: chalk.magenta("SuprA-AI> ")
+    prompt: chalk.magenta("Supra OnChain Agent> ")
   });
 
   console.log(chalk.yellow("\nAvailable commands:"));
@@ -200,13 +200,3 @@ async function main() {
 main().catch((error) => {
   console.error(chalk.red("Initialization error:"), error);
 });
-
-
-// -------------------------------------------------------------------
-// Enhanced AI Agent CLI for the Supra blockchain:
-//  - Uses human language commands
-//  - Persists your Supra account in "account.json" to avoid creating
-//    a new account every run.
-//  - Supports: fetching account info/balance, funding via faucet,
-//    fetching transaction details & history, and viewing account resources.
-// -------------------------------------------------------------------
