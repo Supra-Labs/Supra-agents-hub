@@ -1,0 +1,20 @@
+{
+  "name": "surpaonchainagent",
+  "version": "1.0.0",
+  "description": "AI agent that leverages the Supra TypeScript SDK to perform onchain functions on Supra MoveVM Network.",
+  "main": "agent.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jatin Pandya, DevRel, Supra Labs",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "supra-l1-sdk": "^4.3.1",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/chalk": "^0.4.31",
+    "@types/node": "^22.15.19"
+  }
+}
