@@ -11,9 +11,8 @@ Supra is built for **autonomous execution** and **real-time data processing**, e
 - **Ultra-fast Transactions** → 500K+ TPS ensures AI Agents execute **before competitors**  
 - **Native Automation** → AI-driven contract execution **without external dependencies**  
 - **Real-time Market Data** → Integrated **Oracle price feeds** for live insights  
-- **Multi-chain AI Compatibility** → Built-in **bridging & OpenBlocks.ai** for cross-chain AI automation  
+- **Multi-chain AI Compatibility** → Built-in **Bridgeless Cross Chain Communication Protocol/SupraNova & OpenBlocks.ai** for cross-chain AI automation  
 - **AI-ready On-Chain Strategies** → Supports **AutoFi** (Automatic DeFi) for **AI-managed portfolios**  
-- **Seamless "Sense-Think-Act" Execution** → AI Agents detect, strategize, and deploy trades autonomously  
 
 ## How to Get Started  
 
@@ -31,10 +30,11 @@ This sub-repo contains several AI agent implementations for interacting with **S
 
 | **Repo Name**        | **Description** |
 |----------------------|---------------------------------------------------------------|
-| **Account Interaction Agent**         | Perform real-time on-chain tasks like Tracking transactions and Requesting testnet tokens etc..(balances, transactions, faucet). |
-| **Price Feed Agent**         | Interacts with Supra's real-time price feeds and historical OHLC data APIs to get to reliable market insights.   |
 | **Trading Assist Agent**         | Fetches Market Data via Supra’s oracles, Computes Technical Indicators, uses a ML Model for Short-Term Predictions, and lets you ask follow-up questions to understand Market. |
 | **Supra OnChain Agent**         | Interacts directly with the Supra blockchain via the **Supra-L1-SDK**. It allows users to fetch balances, fund accounts via the faucet, check transaction details, retrieve transaction history, and display account resources. |
+| **OpenBlocksAI Agent**         | Interacts with the **Supra Network** using **OpenBlocks.ai**, It enables users to fetch transfer stats, view recent on-chain transactions, and retrieve finalized transactions from wallet's Move account. |
+| **Account Interaction Agent**         | Perform real-time on-chain tasks like Tracking transactions and Requesting testnet tokens etc..(balances, transactions, faucet). |
+| **Price Feed Agent**         | Interacts with Supra's real-time price feeds and historical OHLC data APIs to get to reliable market insights.   |
 
 ## Create **YOUR FIRST AGENT ON SUPRA** Following official Docs: 
 
