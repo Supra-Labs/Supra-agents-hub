@@ -36,10 +36,16 @@ This sub-repo contains several AI agent implementations for interacting with **S
 | **Trading Assist Agent**         | Fetches Market Data via Supra’s oracles, Computes Technical Indicators, uses a ML Model for Short-Term Predictions, and lets you ask follow-up questions to understand Market. |
 | **Supra OnChain Agent**         | Interacts directly with the Supra blockchain via the **Supra-L1-SDK**. It allows users to fetch balances, fund accounts via the faucet, check transaction details, retrieve transaction history, and display account resources. |
 
+## Create **YOUR FIRST AGENT ON SUPRA** Following official Docs: 
+
+📄 **Docs** → [Your First Agent on Supra Documentation](https://docs.supra.com/ai-agents)
+
+https://player.cloudinary.com/embed/?cloud_name=de6xlcxij&public_id=dsds_hcpyda&profile=cld-looping
+
+https://res.cloudinary.com/de6xlcxij/video/upload/v1747825978/dsds_hcpyda.mp4
 
 ## 🔗 Quick Links  
 
-- 🌍 **Website** → [Supra Official Site](https://supra.com/)  
-- 📄 **Docs** → [Supra Developer Documentation](https://supra.com/docs)    
+- 🌍 **Website** → [Supra Official Site](https://supra.com/)      
 - 🐦 **X (Twitter)** → [Follow Supra](https://x.com/SUPRA_Labs)  
 - 💬 **Community Discord** → [Join the Supra Dev Community](https://discord.com/invite/supra)  
