@@ -40,16 +40,6 @@ This sub-repo contains several AI agent implementations for interacting with **S
 
 📄 **Docs** → [Your First Agent on Supra Documentation](https://docs.supra.com/ai-agents)
 
-<iframe
-  src="https://player.cloudinary.com/embed/?cloud_name=de6xlcxij&public_id=dsds_hcpyda&profile=cld-looping"
-  width="640"
-  height="360" 
-  style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
-  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-  allowfullscreen
-  frameborder="0"
-></iframe>
-
 ## 🔗 Quick Links  
 
 - 🌍 **Website** → [Supra Official Site](https://supra.com/)      
