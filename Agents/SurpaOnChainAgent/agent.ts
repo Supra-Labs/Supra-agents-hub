@@ -69,7 +69,7 @@ async function main() {
 
   // Initialize Supra Client on testnet.
   console.log(chalk.blue("Initializing Supra Client..."));
-  const supraClient = await SupraClient.init("https://rpc-mainnet.supra.com");
+  const supraClient = await SupraClient.init("https://rpc-testnet.supra.com");
   console.log(chalk.green("Connected to network with chain ID:"), supraClient.chainId);
 
   // Load (or create) the account so that the same account persists across runs.
