@@ -21,9 +21,15 @@ Supra is built for **autonomous execution** and **real-time data processing**, e
 ```bash
 git clone https://github.com/Supra-Labs/Supra-agents-hub.git
 ```
-**// Navigate into root dir.**
 
-2️⃣ **Run any agents** using the instructions in the README Provided in each agent codebase given present at `./Agents` sub-repo.  
+2️⃣ **Navigate into the Agents Directory**
+
+```bash
+cd Agents
+```
+
+3️⃣ **Run any agents** using the instructions in the README Provided in each agent codebase given present at `./Agents` sub-repo.  
+
 
 ## Agents Sub-Repo Index  
 This sub-repo contains several AI agent implementations for interacting with **Supra L1**. Each **Agents** focuses on a unique AI-driven use case:
@@ -36,7 +42,8 @@ This sub-repo contains several AI agent implementations for interacting with **S
 | **Account Interaction Agent**         | Perform real-time on-chain tasks like Tracking transactions and Requesting testnet tokens etc..(balances, transactions, faucet). |
 | **Price Feed Agent**         | Interacts with Supra's real-time price feeds and historical OHLC data APIs to get to reliable market insights.   |
 
-## Create **YOUR FIRST AGENT ON SUPRA** Following official Docs: 
+
+## Create **YOUR FIRST AGENT ON SUPRA** : 
 
 📄 **Docs** → [Your First Agent on Supra Documentation](https://docs.supra.com/ai-agents)
 
