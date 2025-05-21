@@ -16,7 +16,7 @@ Supra is built for **autonomous execution** and **real-time data processing**, e
 
 ## How to Get Started  
 
-1️⃣ **Fork this repo**
+1️⃣ **Clone this repo**
 
 ```bash
 git clone https://github.com/Supra-Labs/Supra-agents-hub.git
