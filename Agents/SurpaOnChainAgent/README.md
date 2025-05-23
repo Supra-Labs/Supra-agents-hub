@@ -30,7 +30,7 @@ git clone https://github.com/Supra-Labs/Supra-agents-hub.git
 
 ```bash
 cd Agents
-cd "SupraOnChainAgent"
+cd SurpaOnChainAgent
 ```
 
 ### **2️⃣ Install Dependencies**
